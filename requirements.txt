@@ -1,9 +1,5 @@
 pandas
 streamlit
 plotly
-logging
 numpy
 geopy
-io
-zipfile
-datetime
