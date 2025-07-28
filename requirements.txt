@@ -3,4 +3,4 @@ streamlit
 plotly
 numpy
 geopy
-camelot
+camelot-py
