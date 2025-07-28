@@ -7,3 +7,4 @@ camelot-py
 seaborn
 matplotlib
 dataframe_image
+kaleido
