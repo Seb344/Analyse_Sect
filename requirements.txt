@@ -3,8 +3,8 @@ streamlit
 plotly
 numpy
 geopy
-camelot-py
 seaborn
 matplotlib
 dataframe_image
 kaleido
+pdfplumber
